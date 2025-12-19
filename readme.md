@@ -5,9 +5,9 @@
 ---
 
 ## 👤 Identitas Mahasiswa
-* **Nama** : Rohmi ihsan
-* **NIM** : 2411102441244
-* **Kelas** : B
+* **Nama** : Indra Husain
+* **NIM** : 2411102441237
+* **Kelas** : c
 
 ---
 
@@ -43,4 +43,5 @@ Berikut adalah penjelasan bagaimana prinsip SOLID diterapkan dalam kode ini:
 Pastikan Python sudah terinstal, lalu jalankan perintah berikut di terminal:
 
 ```bash
+
 python sistem_krs.py
